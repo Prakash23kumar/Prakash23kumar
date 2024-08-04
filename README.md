@@ -1,4 +1,4 @@
-![logo](![Prakash Kumar](https://github.com/user-attachments/assets/a0296490-23b3-45b5-a0a4-a3f58a17f962)
+
 
 <h1 align="center">Hi 👋, I'm Prakash Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
